@@ -1,5 +1,6 @@
 # Tugas Pemograman Web 2 (Layout Sederhana)
 ## Profil
+|                 |                     |
 | --------------- | ------------------- |
 | **Nama**        | Basri Sangaji       |
 | **NIM**         | 312110152           |
